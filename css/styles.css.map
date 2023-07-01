@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Hugo/kaiyuan",
+	"sourceRoot": "C:/hugo/kaiyuan",
 	"sources": [
 		"themes/hugo-theme-clarity-master/assets/sass/main.sass",
 		"themes/hugo-theme-clarity-master/assets/sass/_variables.sass",
